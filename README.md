@@ -1,4 +1,4 @@
-Liste de pays du monde en français
+Liste des pays du monde en français
 ====
 
 En ISO ou numéroté
